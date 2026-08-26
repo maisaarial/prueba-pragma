@@ -1,0 +1,5 @@
+﻿Enfoque,Nº de segmentos,Silhouette,Davies-Bouldin (↓ mejor),Calinski-Harabasz (↑ mejor)
+C. K-Means (RFM extendido),3,0.564,0.636,2431.7
+D. Jerárquico / Ward (RFM base),3,0.434,0.908,3308.6
+B. K-Means (RFM base),3,0.423,0.814,4105.0
+A. RFM por reglas (quintiles),6,0.084,2.584,1230.0
